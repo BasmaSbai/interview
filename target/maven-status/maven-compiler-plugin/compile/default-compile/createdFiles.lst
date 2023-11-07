@@ -8,6 +8,7 @@ com/vaco/interview/domain/services/impl/CategoryServiceImpl.class
 com/vaco/interview/domain/converters/PostConverter.class
 com/vaco/interview/controllers/dto/CategoryDto$CategoryDtoBuilder.class
 com/vaco/interview/domain/repositories/PostRepository.class
+com/vaco/interview/domain/exceptions/CategoryNotFoundException.class
 com/vaco/interview/controllers/dto/CategoryDto.class
 com/vaco/interview/controllers/PostController.class
 com/vaco/interview/domain/repositories/CategoryRepository.class
